@@ -1,8 +1,9 @@
 <style>
-
 body {
   background-image: url("/assignment/Assignment Background.jpg");
+  background-attachment: fixed;
 }
+
 
 p {
   margin-top: 5px;
