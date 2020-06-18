@@ -1,8 +1,7 @@
 <style>
 
 body {
-  background-image: url(assignment/Assignment Background.jpg);
-  background-repeat: repeat-x;
+  background-image: url("assignment/Assignment Background.jpg");
 }
 
 p {
